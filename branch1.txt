@@ -8,3 +8,5 @@ this is change 2
 change during merge
 testing updates
 also changes at the end
+add my new feature here
+add at the end
